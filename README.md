@@ -22,8 +22,8 @@ Android Studio(Latest Version)
 
 
 ## Program to display animation operation”.
-## Developed by: KISHORE M
-## Registeration Number : 212221043003
+## Developed by: CHANDRAMOHAN S
+## Registeration Number : 212221223002
 
 
 
